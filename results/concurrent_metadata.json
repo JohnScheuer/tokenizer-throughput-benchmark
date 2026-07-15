@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-07-15T02:39:19.619569+00:00",
+  "n_workers": [
+    1,
+    2,
+    4,
+    8,
+    16
+  ],
+  "n_items_per_worker": 500,
+  "n_repeats": 3,
+  "cpu_count": 12
+}

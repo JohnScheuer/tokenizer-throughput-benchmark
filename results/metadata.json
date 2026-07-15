@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-07-15T02:35:22.026534+00:00",
+  "batch_sizes": [
+    1,
+    4,
+    16,
+    64,
+    256
+  ],
+  "text_lengths": [
+    "short",
+    "medium",
+    "long"
+  ],
+  "n_repeats": 5
+}
